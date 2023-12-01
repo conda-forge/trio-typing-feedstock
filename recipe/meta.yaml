@@ -28,7 +28,7 @@ requirements:
     - trio >=0.16.0
     - typing-extensions >=3.7.4
   run_constrained:
-    - mypy >=0.920
+    - mypy >=1.0
 
 test:
   imports:
